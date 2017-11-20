@@ -17,7 +17,7 @@ image[9]='10.png';
 image[10]='11.png';
 image[11]='12.png';
 image[12]='13.png';
-image[13]='14.png';
+
 
 //change images automatically 
 function changingImage() {
